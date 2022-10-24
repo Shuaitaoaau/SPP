@@ -1,1 +1,1 @@
-Single Channel Speech presence probability Estimation
+Single Channel Speech Presence Probability Estimation
