@@ -1,1 +1,1 @@
-Frequency bin-wise Single Channel Speech Presence Probability Estimation Using DNNs
+Frequency Bin-Wise Single Channel Speech Presence Probability Estimation Using DNNs
