@@ -21,7 +21,9 @@ if __name__ == "__main__":
 
     criterion = torch.nn.MSELoss()
     
-    model_num = 1
+    model_num = 1   #Typical DNN-based
+    #model_num = 129  Frequency bin-wise
+
 
     for n in range(model_num):
         print("-"*30, f"Model {n + 1}", "-"*30)
